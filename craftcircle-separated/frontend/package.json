@@ -1,0 +1,10 @@
+{
+  "name": "craftcircle-frontend",
+  "version": "1.0.0",
+  "description": "CraftCircle frontend - static HTML/CSS/JS served by a zero-dependency Node server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
